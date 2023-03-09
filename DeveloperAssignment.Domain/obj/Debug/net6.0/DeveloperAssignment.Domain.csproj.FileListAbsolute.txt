@@ -1,0 +1,12 @@
+D:\Projects\DeveloperAssignment\DeveloperAssignment.Domain\bin\Debug\net6.0\DeveloperAssignment.Domain.deps.json
+D:\Projects\DeveloperAssignment\DeveloperAssignment.Domain\bin\Debug\net6.0\DeveloperAssignment.Domain.dll
+D:\Projects\DeveloperAssignment\DeveloperAssignment.Domain\bin\Debug\net6.0\DeveloperAssignment.Domain.pdb
+D:\Projects\DeveloperAssignment\DeveloperAssignment.Domain\obj\Debug\net6.0\DeveloperAssignment.Domain.csproj.AssemblyReference.cache
+D:\Projects\DeveloperAssignment\DeveloperAssignment.Domain\obj\Debug\net6.0\DeveloperAssignment.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\DeveloperAssignment\DeveloperAssignment.Domain\obj\Debug\net6.0\DeveloperAssignment.Domain.AssemblyInfoInputs.cache
+D:\Projects\DeveloperAssignment\DeveloperAssignment.Domain\obj\Debug\net6.0\DeveloperAssignment.Domain.AssemblyInfo.cs
+D:\Projects\DeveloperAssignment\DeveloperAssignment.Domain\obj\Debug\net6.0\DeveloperAssignment.Domain.csproj.CoreCompileInputs.cache
+D:\Projects\DeveloperAssignment\DeveloperAssignment.Domain\obj\Debug\net6.0\DeveloperAssignment.Domain.dll
+D:\Projects\DeveloperAssignment\DeveloperAssignment.Domain\obj\Debug\net6.0\refint\DeveloperAssignment.Domain.dll
+D:\Projects\DeveloperAssignment\DeveloperAssignment.Domain\obj\Debug\net6.0\DeveloperAssignment.Domain.pdb
+D:\Projects\DeveloperAssignment\DeveloperAssignment.Domain\obj\Debug\net6.0\ref\DeveloperAssignment.Domain.dll

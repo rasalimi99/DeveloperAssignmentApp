@@ -1,0 +1,17 @@
+D:\Projects\DeveloperAssignment\DeveloperAssignment.Application\bin\Debug\net6.0\DeveloperAssignment.Application.deps.json
+D:\Projects\DeveloperAssignment\DeveloperAssignment.Application\bin\Debug\net6.0\DeveloperAssignment.Application.runtimeconfig.json
+D:\Projects\DeveloperAssignment\DeveloperAssignment.Application\bin\Debug\net6.0\DeveloperAssignment.Application.dll
+D:\Projects\DeveloperAssignment\DeveloperAssignment.Application\bin\Debug\net6.0\DeveloperAssignment.Application.pdb
+D:\Projects\DeveloperAssignment\DeveloperAssignment.Application\bin\Debug\net6.0\DeveloperAssignment.Domain.dll
+D:\Projects\DeveloperAssignment\DeveloperAssignment.Application\bin\Debug\net6.0\DeveloperAssignment.Domain.pdb
+D:\Projects\DeveloperAssignment\DeveloperAssignment.Application\obj\Debug\net6.0\DeveloperAssignment.Application.csproj.AssemblyReference.cache
+D:\Projects\DeveloperAssignment\DeveloperAssignment.Application\obj\Debug\net6.0\DeveloperAssignment.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\DeveloperAssignment\DeveloperAssignment.Application\obj\Debug\net6.0\DeveloperAssignment.Application.AssemblyInfoInputs.cache
+D:\Projects\DeveloperAssignment\DeveloperAssignment.Application\obj\Debug\net6.0\DeveloperAssignment.Application.AssemblyInfo.cs
+D:\Projects\DeveloperAssignment\DeveloperAssignment.Application\obj\Debug\net6.0\DeveloperAssignment.Application.csproj.CoreCompileInputs.cache
+D:\Projects\DeveloperAssignment\DeveloperAssignment.Application\obj\Debug\net6.0\DeveloperAssignment.Application.csproj.CopyComplete
+D:\Projects\DeveloperAssignment\DeveloperAssignment.Application\obj\Debug\net6.0\DeveloperAssignment.Application.dll
+D:\Projects\DeveloperAssignment\DeveloperAssignment.Application\obj\Debug\net6.0\refint\DeveloperAssignment.Application.dll
+D:\Projects\DeveloperAssignment\DeveloperAssignment.Application\obj\Debug\net6.0\DeveloperAssignment.Application.pdb
+D:\Projects\DeveloperAssignment\DeveloperAssignment.Application\obj\Debug\net6.0\DeveloperAssignment.Application.genruntimeconfig.cache
+D:\Projects\DeveloperAssignment\DeveloperAssignment.Application\obj\Debug\net6.0\ref\DeveloperAssignment.Application.dll
