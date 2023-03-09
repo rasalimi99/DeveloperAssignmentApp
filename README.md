@@ -6,4 +6,4 @@
 # 4: go to the package manager console in your visual studio and then run this command update-database
 # congrats! now run the application in visual studio 
 
-# Note: sql server must be install in your computer to run application 
+# Note: sql server must be install in your computer and in DeveloperAssignment/appsettings.json file please set Data Source to run application
