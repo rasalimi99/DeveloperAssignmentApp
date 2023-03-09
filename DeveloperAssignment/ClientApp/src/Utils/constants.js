@@ -1,5 +1,5 @@
 // base url for our web api
-const base_url = "https://localhost:44451/api/";
+const base_url = "http://" + window.location.host + "/api/";
 
 // declare and initialize const for our routes
 const routes = {
